@@ -1,6 +1,11 @@
 # python101
 I want to explain python as simple as possible to beginers
 
-making some change here
+TO DO LIST:
 
-trying git push 
+finish the jupiter notebook
+
+give examples by topic 
+
+
+
