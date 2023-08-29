@@ -7,5 +7,23 @@ finish the jupiter notebook
 
 give examples by topic 
 
+covered:
 
+why programmign with python 
+
+aims of thsi notebook 
+
+comments 
+
+data type: 
+
+int 
+float 
+bool 
+
+control flow :
+
+while 
+for 
+if 
 
